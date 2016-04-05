@@ -1,0 +1,28 @@
+name: Rowley
+favicon: null
+layout_spectrum: 0.7340524853207171
+typography_spectrum: 0.8376679616048932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.24317211960442364
+  lightness: 0.47851540497504175
+  saturation: 0.4285006911959499
+  rhythmicContrast: 0.9382282986771315
+purpose: []
