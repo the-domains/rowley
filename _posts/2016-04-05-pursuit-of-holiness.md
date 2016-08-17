@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Communion
-datePublished: '2016-04-05T01:32:12.583Z'
-dateModified: '2016-04-05T01:31:26.107Z'
+description: 'Communion:'
+datePublished: '2016-08-17T17:51:26.564Z'
+dateModified: '2016-08-17T17:51:25.972Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-pursuit-of-holiness.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: true
 url: pursuit-of-holiness/index.html
 _type: Article
 
@@ -31,10 +31,8 @@ Anyone here specialize in forgetting? I forget my phone at home like once a week
 Why do I forget things so quickly? Ask yourself the same question and I think you will find several factors.
 
 * We lose focus and our minds drift elsewhere
-* 
-We lose the meaning or importance attached to what we doing
-* 
-We don't do something often enough for it to stay within our memory
+* We lose the meaning or importance attached to what we doing
+* We don't do something often enough for it to stay within our memory
 
 This evening we are going to look at an aspect of Communion that the Corinthians had forgotten which was not just inconvenient or embarrassing but something that was sinful - something that grieved the Holy Spirit.
 
@@ -90,7 +88,7 @@ About the other things I will give directions when I come.
 * In Part of Paul's rebuke to the Corinthians Paul chooses to bring up the story of the Last Supper Jesus had with the disciples. He wanted them to remember the why. __
 * That is why we may, "_proclaim the Lord's death till he comes again."_
 
-- \> Understanding the WHY Helps you obey and remember
+- Understanding the WHY Helps you obey and remember
 
 **Punishment or Discipline**
 
@@ -215,11 +213,8 @@ We can forget a lot of things, from keys, to names, to phones. Let us not forget
 : I am asking you to remember 4 things:
 
 1. Remember the importance of Communion - his sacrifice
-2. 
-Remember Sin is serious
-3. 
-Remember to Practice self-examination
-4. 
-Remember to Confess and repent of sin
+2. Remember Sin is serious
+3. Remember to Practice self-examination
+4. Remember to Confess and repent of sin
 
 * For all the believers here, during Communion go over these 4 things. Let the Holy Spirit work on your heart with scripture.
